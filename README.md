@@ -5,7 +5,7 @@ IMPORTANT: Follow all instructions and setup, otherwise sm_stayawake will not wo
 
 About sm_stayawake:
 1. The purpose of sm_stayawake is to keep modern studio monitor speakers from turning off into standby.
-2. To Achieve this, sm_stayawake plays an inaudible 10Hz tone at 50 % volume for about 20 seconds. 
+2. To Achieve this, sm_stayawake plays an inaudible 5Hz tone at 50 % volume for about 20 seconds. 
 3. There are 4 sec fade in/outs to not produce a popping sound.
 
 System Requierments: 
