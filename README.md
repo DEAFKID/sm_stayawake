@@ -67,6 +67,8 @@ IMPORTANT SETUP: Steps to schedule using Windows Task Scheduler:
 
 21. Click: OK
 
+22. Restart PC. The Task should now be triggered, and continue to run every 15 minutes.
+
 --------------
  Done! Enjoy!
 --------------
