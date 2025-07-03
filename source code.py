@@ -28,8 +28,8 @@ setup_portaudio_dll()
 
 # --- Audio Generation ---
 SAMPLE_RATE = 44100
-FREQUENCY = 10  # 10Hz subsonic tone
-VOLUME = 0.5    # 50% volume
+FREQUENCY = 5   # 5Hz subsonic tone
+VOLUME = 0.50   # 25% volume
 
 # Timeline (seconds)
 FADE_IN = 4.0
