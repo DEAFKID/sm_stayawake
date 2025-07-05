@@ -8,7 +8,7 @@ About sm_stayawake:
 2. To achieve this, sm_stayawake plays an inaudible 5Hz tone at 50 % volume for about 20 seconds. 
 3. There are 4 sec fade in/outs to not produce a popping sound.
 
-System Requierments: 
+System Requirements: 
 1. Windows 10/11
 2. Windows media volume needs to be turned on and turned up (at a normal listening level) for sm_stayawake to function.
 3. Interface volume needs to be turned up to a normal level.
